@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='D:\Vim\vimfiles\c-support\rc'
+let g:netrw_dirhist_2='D:\Vim\vimfiles\doc'
+let g:netrw_dirhist_3='C:\Users\Administrator.PC-20120326BWWX\Desktop'
